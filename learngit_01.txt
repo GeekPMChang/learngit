@@ -1,2 +1,3 @@
 Git is a distribution version control systeam.
 Git is free application distributed under the GPL.
+Git has a mutabal index called stage.

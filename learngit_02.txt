@@ -1,0 +1,2 @@
+The new document.
+Due to test the Git.
